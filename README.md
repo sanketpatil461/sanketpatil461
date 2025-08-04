@@ -63,9 +63,8 @@ Here's a comprehensive overview of my technical skills and tools:
 </div>
 
 ## 🐍 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketpatil461&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github.com/sanketpatil461/sanketpatil461/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
 
 
@@ -115,4 +114,5 @@ Here's a comprehensive overview of my technical skills and tools:
   <p>Feel free to reach out if you'd like to collaborate on projects or just have a chat about tech!</p>
 
 </div> 
+
 
