@@ -115,3 +115,4 @@ Here's a comprehensive overview of my technical skills and tools:
   <p>Feel free to reach out if you'd like to collaborate on projects or just have a chat about tech!</p>
 
 </div> 
+
