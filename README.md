@@ -1,10 +1,9 @@
+
 # Hi there, I'm Sanket Pise! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cloud+DevOps+Engineer;Automation+Expert;CI%2FCD+Pipeline+Builder;Cloud+Infrastructure+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
-
-
 
 
 ## 🚀 About Me
@@ -62,12 +61,11 @@ Here's a comprehensive overview of my technical skills and tools:
   </a>
 </div>
 
-## 🐍 Contribution Graph
+
+## 📈 Activity Graph
 <div align="center">
-  <img src="https://github.com/sanketpatil461/sanketpatil461/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketpatil461&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
-
-
 
 ## 📈 Profile Views
 
@@ -114,5 +112,6 @@ Here's a comprehensive overview of my technical skills and tools:
   <p>Feel free to reach out if you'd like to collaborate on projects or just have a chat about tech!</p>
 
 </div> 
+
 
 
