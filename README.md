@@ -2,7 +2,7 @@
 # Hi there, I'm Sanket Pise! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cloud+DevOps+Engineer;Automation+Expert;CI%2FCD+Pipeline+Builder;Cloud+Infrastructure+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Cloud+DevOps+Engineer;Automation+Expert;CI%2FCD+Pipeline+Builder;Cloud+Infrastructure+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG"/>
 </div>
 
 
@@ -109,6 +109,7 @@ Here's a comprehensive overview of my technical skills and tools:
   <p>Feel free to reach out if you'd like to collaborate on projects or just have a chat about tech!</p>
 
 </div> 
+
 
 
 
