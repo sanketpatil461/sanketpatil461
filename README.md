@@ -103,15 +103,13 @@ Here's a comprehensive overview of my technical skills and tools:
 
 ---
 
-<div align="center">
-  <img src="https://github.com/sanketpatil461/sanketpatil461/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
 
 <div align="center">
   <h3>Thanks for visiting my profile! 👋</h3>
   <p>Feel free to reach out if you'd like to collaborate on projects or just have a chat about tech!</p>
 
 </div> 
+
 
 
 
